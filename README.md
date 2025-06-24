@@ -31,4 +31,8 @@ An interactive data dashboard built with **Streamlit** and **Plotly** to explore
 ```bash
 git clone https://github.com/your-username/supermarket-dashboard.git
 cd supermarket-dashboard
+streamlit run app.py
+```
+---
 
+## 📷 Screenshots
