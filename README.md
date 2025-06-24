@@ -36,3 +36,10 @@ streamlit run app.py
 ---
 
 ## 📷 Screenshots
+
+### Dashboard overview:
+![Dashboard Screenshot](dashboard.png)
+
+### Graphs:
+![Graphs Screenshot](graphs.png)
+![Graphs1 Screenshot](graphs1.png)
